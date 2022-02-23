@@ -1,0 +1,55 @@
+namespace LET_A_LOKA
+{
+
+    public partial class Watermark : Form
+    {
+       
+        public string User = "HS PREVENT \r\n " + Environment.UserName;
+
+        private const int WS_EX_TRANSPARENT = 0x20;
+        public Watermark()
+        {
+
+            InitializeComponent();
+            this.Opacity = .10;
+            this.TopMost = true;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.WindowState = FormWindowState.Maximized;
+            this.Paint += Watermark_Paint;
+
+        }
+
+        // this makes the form ignore all clicks, so it is "passthrough"
+        protected override System.Windows.Forms.CreateParams CreateParams
+        {
+            get
+            {
+                CreateParams cp = base.CreateParams;
+                cp.ExStyle = cp.ExStyle | WS_EX_TRANSPARENT;
+                return cp;
+            }
+        }
+
+        private void Watermark_Paint(object sender, PaintEventArgs e)
+        {
+            if (User != "")
+            {
+                // play with this drawing code to change your "watermark"
+                //SizeF szF = e.Graphics.MeasureString(dados, this.Font);
+                SizeF szF1 = e.Graphics.MeasureString(User, this.Font);
+                e.Graphics.RotateTransform(-45);
+                int max = Math.Max(this.Width, this.Height);
+                for (int y = 0; y <= max; y = y + (2 * (int)szF1.Height))
+                {
+                    //e.Graphics.DrawString(dados, this.Font, Brushes.Black, 0, y);
+                    e.Graphics.DrawString(User, this.Font, Brushes.Black, 0, y);
+                }
+
+
+          
+                }
+            }
+        }
+
+    }
+
