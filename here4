@@ -46,7 +46,7 @@ namespace Watermark
                     {
                         //e.Graphics.DrawString(dados, this.Font, Brushes.Black, 0, y);
                         
-                        e.Graphics.DrawString(User , this.Font, Brushes.Gray, x, y);
+                        e.Graphics.DrawString(User , this.Font, Brushes.DarkGray, x, y);
 
                     }
                 }
