@@ -18,6 +18,7 @@ namespace LET_A_LOKA
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.WindowState = FormWindowState.Maximized;
             this.Paint += Watermark_Paint;
+            this.ShowInTaskbar = false;
 
         }
 
