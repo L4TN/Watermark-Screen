@@ -1,0 +1,62 @@
+
+namespace Watermark
+{
+    public partial class Watermark : Form
+    {
+        
+      
+        public string User = "HS PREVENT \r\n" + Environment.UserName + "\r\n" + Environment.MachineName + "\r\n";
+        private const int WS_EX_TRANSPARENT = 0x20;
+        public Watermark()
+        {
+            InitializeComponent();
+            this.Opacity = .50;
+            this.TopMost = true;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.WindowState = FormWindowState.Maximized;
+            this.Paint += Watermark_Paint;
+            this.ShowInTaskbar = false;
+
+        }
+        // this makes the form ignore all clicks, so it is "passthrough"
+        protected override System.Windows.Forms.CreateParams CreateParams
+        {
+            get
+            {
+                CreateParams cp = base.CreateParams;
+                cp.ExStyle = cp.ExStyle | WS_EX_TRANSPARENT;
+                return cp;
+            }
+        }
+        private void Watermark_Paint(object sender, PaintEventArgs e)
+        {
+            if (User != "")
+            {
+                // play with this drawing code to change your "watermark"
+                //SizeF szF = e.Graphics.MeasureString(dados, this.Font);
+                SizeF szF1 = e.Graphics.MeasureString(User , this.Font);
+                int max = Math.Max(this.Width, this.Height);
+                e.Graphics.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAliasGridFit;
+                e.Graphics.CompositingQuality = System.Drawing.Drawing2D.CompositingQuality.HighQuality;
+                e.Graphics.TextRenderingHint =
+        System.Drawing.Text.TextRenderingHint.SingleBitPerPixel;
+                for (int y = 0; y <= max; y = y + (2 * (int)szF1.Height))
+                {
+                    for (int x = 0; x <= max; x = x + (3 * (int)szF1.Height))
+                    {
+                        //e.Graphics.DrawString(dados, this.Font, Brushes.Black, 0, y);
+                        
+                        e.Graphics.DrawString(User , this.Font, Brushes.Gray, x, y);
+
+                    }
+                }
+            }
+        }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+
+    }
+}
