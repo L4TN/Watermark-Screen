@@ -4,7 +4,9 @@ namespace LET_A_LOKA
     public partial class Watermark : Form
     {
        
-        public string User = "HS PREVENT \r\n " + Environment.UserName;
+        public string date_hora = DateTime.Now.ToLongTimeString() + " - " + DateTime.Now.ToString("dd/MM/yyyy");
+
+        public string User = "HS PREVENT \r\n" + Environment.UserName + "\r\n" + Environment.MachineName + "\r\n";
 
         private const int WS_EX_TRANSPARENT = 0x20;
         public Watermark()
