@@ -1,0 +1,17 @@
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\bin\Debug\net6.0-windows\Timer_Implementado.exe
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\bin\Debug\net6.0-windows\Timer_Implementado.deps.json
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\bin\Debug\net6.0-windows\Timer_Implementado.runtimeconfig.json
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\bin\Debug\net6.0-windows\Timer_Implementado.dll
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\bin\Debug\net6.0-windows\ref\Timer_Implementado.dll
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\bin\Debug\net6.0-windows\Timer_Implementado.pdb
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\obj\Debug\net6.0-windows\Timer_Implementado.csproj.AssemblyReference.cache
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\obj\Debug\net6.0-windows\Timer_Implementado.TimeTicker.resources
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\obj\Debug\net6.0-windows\Timer_Implementado.csproj.GenerateResource.cache
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\obj\Debug\net6.0-windows\Timer_Implementado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\obj\Debug\net6.0-windows\Timer_Implementado.AssemblyInfoInputs.cache
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\obj\Debug\net6.0-windows\Timer_Implementado.AssemblyInfo.cs
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\obj\Debug\net6.0-windows\Timer_Implementado.csproj.CoreCompileInputs.cache
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\obj\Debug\net6.0-windows\Timer_Implementado.dll
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\obj\Debug\net6.0-windows\ref\Timer_Implementado.dll
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\obj\Debug\net6.0-windows\Timer_Implementado.pdb
+C:\Users\Lab HS\source\repos\Timer_Implementado\Timer_Implementado\obj\Debug\net6.0-windows\Timer_Implementado.genruntimeconfig.cache
