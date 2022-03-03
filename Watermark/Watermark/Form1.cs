@@ -58,7 +58,7 @@ namespace Watermark
                                 //e.Graphics.DrawString(dados, this.Font, Brushes.Black, 0, y);
                                 var test = new SolidBrush(Color.FromArgb(255, Color.LightGray));
                                 e.Graphics.DrawString(User + DateTime.Now.ToLongTimeString()  , this.Font, test, x, y);
-                                //Bibliotecas System.Drawing tem a classe Graphics e Drawing
+                                //Bibliotecas System.Drawing tem a classe Graphics e Drawing2D
                                 //DrawString, DrawPath, Pen, SolidBrush,Brush
                             }
                         }
