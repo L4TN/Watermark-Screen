@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Watermark</id>
+    <version>1.0.0</version>
+    <authors>Watermark</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\bin\Debug\net6.0-windows\Watermark.runtimeconfig.json" target="lib\net6.0-windows7.0\Watermark.runtimeconfig.json" />
+    <file src="C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\bin\Debug\net6.0-windows\Watermark.dll" target="lib\net6.0-windows7.0\Watermark.dll" />
+  </files>
+</package>

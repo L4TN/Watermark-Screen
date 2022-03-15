@@ -32,21 +32,30 @@
             // 
             // Watermark
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 30F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 29F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gray;
-            this.ClientSize = new System.Drawing.Size(1721, 979);
-            this.Font = new System.Drawing.Font("Microsoft YaHei UI", 17.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.ForeColor = System.Drawing.Color.Chocolate;
+            this.ClientSize = new System.Drawing.Size(259, 111);
+            this.Font = new System.Drawing.Font("Fredoka", 17.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.Margin = new System.Windows.Forms.Padding(7);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Watermark";
-            this.Opacity = 0.99D;
-            this.Text = "Watermark";
+            this.Opacity = .20; //Define the opacity of Forms 
+            this.TopMost = true;
+            this.WindowState = FormWindowState.Maximized;
+            this.Paint += Watermark_Paint;
+            //this.FormBorderStyle = FormBorderStyle.SizableToolWindow;
+            this.FormBorderStyle = FormBorderStyle.None;
+            this.ShowInTaskbar = false;
+            this.TopMost = true;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.TransparencyKey = System.Drawing.Color.Gray;
+            this.WindowState = FormWindowState.Maximized;
+
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
         #endregion
     }

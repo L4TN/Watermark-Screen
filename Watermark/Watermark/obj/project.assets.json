@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lab HS\\source\\repos\\Watermark\\Watermark\\Watermark.csproj",
+      "projectUniqueName": "C:\\Users\\Lab HS\\Desktop\\Nova Marca Dagua\\Watermark\\Watermark\\Watermark.csproj",
       "projectName": "Watermark",
-      "projectPath": "C:\\Users\\Lab HS\\source\\repos\\Watermark\\Watermark\\Watermark.csproj",
+      "projectPath": "C:\\Users\\Lab HS\\Desktop\\Nova Marca Dagua\\Watermark\\Watermark\\Watermark.csproj",
       "packagesPath": "C:\\Users\\Lab HS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lab HS\\source\\repos\\Watermark\\Watermark\\obj\\",
+      "outputPath": "C:\\Users\\Lab HS\\Desktop\\Nova Marca Dagua\\Watermark\\Watermark\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lab HS\\AppData\\Roaming\\NuGet\\NuGet.Config",

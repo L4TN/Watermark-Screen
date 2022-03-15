@@ -15,3 +15,37 @@ C:\Users\Lab HS\source\repos\Watermark\Watermark\obj\Debug\net6.0-windows\Waterm
 C:\Users\Lab HS\source\repos\Watermark\Watermark\obj\Debug\net6.0-windows\ref\Watermark.dll
 C:\Users\Lab HS\source\repos\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.pdb
 C:\Users\Lab HS\source\repos\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.genruntimeconfig.cache
+C:\Users\Lab HS\Desktop\Watermark\Watermark\bin\Debug\net6.0-windows\Watermark.exe
+C:\Users\Lab HS\Desktop\Watermark\Watermark\bin\Debug\net6.0-windows\Watermark.deps.json
+C:\Users\Lab HS\Desktop\Watermark\Watermark\bin\Debug\net6.0-windows\Watermark.runtimeconfig.json
+C:\Users\Lab HS\Desktop\Watermark\Watermark\bin\Debug\net6.0-windows\Watermark.dll
+C:\Users\Lab HS\Desktop\Watermark\Watermark\bin\Debug\net6.0-windows\ref\Watermark.dll
+C:\Users\Lab HS\Desktop\Watermark\Watermark\bin\Debug\net6.0-windows\Watermark.pdb
+C:\Users\Lab HS\Desktop\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.csproj.AssemblyReference.cache
+C:\Users\Lab HS\Desktop\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.Watermark.resources
+C:\Users\Lab HS\Desktop\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.csproj.GenerateResource.cache
+C:\Users\Lab HS\Desktop\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab HS\Desktop\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.AssemblyInfoInputs.cache
+C:\Users\Lab HS\Desktop\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.AssemblyInfo.cs
+C:\Users\Lab HS\Desktop\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.csproj.CoreCompileInputs.cache
+C:\Users\Lab HS\Desktop\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.dll
+C:\Users\Lab HS\Desktop\Watermark\Watermark\obj\Debug\net6.0-windows\ref\Watermark.dll
+C:\Users\Lab HS\Desktop\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.pdb
+C:\Users\Lab HS\Desktop\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.genruntimeconfig.cache
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\bin\Debug\net6.0-windows\Watermark.exe
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\bin\Debug\net6.0-windows\Watermark.deps.json
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\bin\Debug\net6.0-windows\Watermark.runtimeconfig.json
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\bin\Debug\net6.0-windows\Watermark.dll
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\bin\Debug\net6.0-windows\ref\Watermark.dll
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\bin\Debug\net6.0-windows\Watermark.pdb
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.csproj.AssemblyReference.cache
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.Watermark.resources
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.csproj.GenerateResource.cache
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.AssemblyInfoInputs.cache
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.AssemblyInfo.cs
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.csproj.CoreCompileInputs.cache
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.dll
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\obj\Debug\net6.0-windows\ref\Watermark.dll
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.pdb
+C:\Users\Lab HS\Desktop\Nova Marca Dagua\Watermark\Watermark\obj\Debug\net6.0-windows\Watermark.genruntimeconfig.cache
