@@ -19,7 +19,8 @@ namespace Watermark
         {
             
             /// <summary> 
-            /// This method contains the code that creates and initializes the user interface objects dragged on the form surface with the values provided by the programmer, using the Property Grid of the Form Designer. 
+            /// This method contains the code that creates and initializes the user interface objects dragged on the form surface with the values 
+            /// provided by the programmer, using the Property Grid of the Form Designer. 
             /// </summary>
       
             InitializeComponent();
