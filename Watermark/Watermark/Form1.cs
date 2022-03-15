@@ -17,16 +17,18 @@ namespace Watermark
 
         public Watermark()
         {
-            ///
-            ///<summary> This method contains the code that creates and initializes the user interface objects dragged on the form surface with the values provided by the programmer, using the Property Grid of the Form Designer. </summary>
-            ///
+            
+            /// <summary> 
+            /// This method contains the code that creates and initializes the user interface objects dragged on the form surface with the values provided by the programmer, using the Property Grid of the Form Designer. 
+            /// </summary>
+      
             InitializeComponent();
-            this.Location = Screen.AllScreens[0].WorkingArea.Location;
+            this.Location = Screen.AllScreens[0].WorkingArea.Location; //Define which screen will display watermark.
 
         }
 
         /// <summary>
-        /// This function overwriting hexadecimal values of system making the Form click through and hidden.
+        /// This function overwriting with hexadecimal values of system, making the Form click through and hidden in alt + tab.
         /// </summary>
         protected override System.Windows.Forms.CreateParams CreateParams
         {
@@ -40,7 +42,7 @@ namespace Watermark
         }
 
         /// <summary>
-        ///  This function draw in screen the component.
+        ///  This function draw in screen the component watermark.
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
@@ -49,10 +51,13 @@ namespace Watermark
             
             if (User != "")
             {
-                // play with this drawing code to change your "watermark"  
+                // Get the Width and Height of current screen.
                 SizeF szF1 = e.Graphics.MeasureString(User + DateTime.Now.ToLongTimeString() + DateTime.Now.ToString("dd/MM/yyyy"), this.Font);
                 int max = Math.Max(this.Width, this.Height);
                 
+                /// <summary>
+                ///  This function increase the quality of watermark text.
+                /// </summary>
                 Antialising(e);
                 
                 for (int y = 0; y <= max; y = y + (2 * (int)szF1.Height))
