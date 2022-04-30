@@ -14,7 +14,7 @@ A specific calculation was created to fit responsiveness in different resolution
 You can access the project from the link on the side:
 <a href="https://www.figma.com/file/Yr99ux0i9N5lMj6gY7Ap5f/Grid-system-template-(Community)-(Copy)?node-id=0%3A1" target="_blank"> Prototype preview link in Figma </a>
 
-## Imagens do Projeto
+## Project Images
  
 <img src="https://github.com/sarahsoaressilva/PetFriday/blob/main/img_demostrativas/heading.PNG?raw=true" width="900" height="500">
 <img src="https://github.com/sarahsoaressilva/PetFriday/blob/main/img_demostrativas/middle.PNG?raw=true" width="900" height="500">
