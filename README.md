@@ -22,4 +22,4 @@ You can access the project from the link on the side:
 
 **Conclusion:** Since the build product of this project results in a single Windows 10 native executable (.NET Framework 4.8) with no dependencies required, the deployment process becomes quick and easy. This executable can be used by SysAdmin professionals and applied to a domain of computers, through Active Directory GPOs.
 
-### Disclaimer: This project is a rewriting and compilation of articles from several forums in order to manipulate graphics on Windows through legacy applications.
+### Disclaimer: This project is a rewriting and compilation of articles from several forums in order to manipulate graphics on Windows through legacy applications and has no relation to projects previously done in the business domain.
