@@ -15,11 +15,11 @@ You can access the project from the link on the side:
 <a href="https://www.figma.com/file/Yr99ux0i9N5lMj6gY7Ap5f/Grid-system-template-(Community)-(Copy)?node-id=0%3A1" target="_blank"> Prototype preview link in Figma </a>
 
 ## Project Images
+
  
-<img src="https://github.com/sarahsoaressilva/PetFriday/blob/main/img_demostrativas/heading.PNG?raw=true" width="900" height="500">
-<img src="https://github.com/sarahsoaressilva/PetFriday/blob/main/img_demostrativas/middle.PNG?raw=true" width="900" height="500">
-<img src="https://github.com/sarahsoaressilva/PetFriday/blob/main/img_demostrativas/products.PNG?raw=true" width="900" height="500">
-<img src="https://github.com/sarahsoaressilva/PetFriday/blob/main/img_demostrativas/end.PNG?raw=true" width="900" height="500">
+ ![GridInW10](https://user-images.githubusercontent.com/75400361/166120443-3848ad66-dfae-4178-959d-e47446013993.png)
+ ![Watermark_Measure](https://user-images.githubusercontent.com/75400361/166120323-133f40ba-4675-4654-8afd-24cd2adfee53.png)
+ 
 
 **Conclusion:** Since the build product of this project results in a single Windows 10 native executable (.NET Framework 4.8) with no dependencies required, the deployment process becomes quick and easy. This executable can be used by SysAdmin professionals and applied to a domain of computers, through Active Directory GPOs.
 
