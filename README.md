@@ -16,7 +16,6 @@ You can access the project from the link on the side:
 
 ## Project Images
 
- 
  ![GridInW10](https://user-images.githubusercontent.com/75400361/166120443-3848ad66-dfae-4178-959d-e47446013993.png)
  ![Watermark_Measure](https://user-images.githubusercontent.com/75400361/166120323-133f40ba-4675-4654-8afd-24cd2adfee53.png)
  
