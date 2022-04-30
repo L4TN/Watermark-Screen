@@ -3,7 +3,7 @@
 
 ## Project summary
 
-**Goal:** Build a native watermark software for Windows that makes it impossible to close it through the Windows context menu, since third-party watermarks such as Rainmeter provide the functionality to close it, making it unusable for the function watermark to ensure data reliability. 
+**Goal:** Build a native watermark software for Windows that makes it impossible to close it through the Windows context menu, since third-party watermarks such as Rainmeter provide the functionality to close it and Xsecuritas are so expensive, making it unusable for the function watermark to ensure data reliability. 
 
 <b> The technologies and applications used were: </b> 
 - .NET Framework 4.8;
